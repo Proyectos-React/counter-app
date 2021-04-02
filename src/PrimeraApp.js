@@ -16,7 +16,7 @@ const PrimeraApp = ({saludo, subtitulo}) => {
             {/* <h1> {saludo.nombre} </h1> */}
             {/* <h1> {saludo.edad} </h1> */}
             <h1>
-                {saludo}
+                {saludo} !!!
             </h1>
             <p>{subtitulo}</p>
         </>
